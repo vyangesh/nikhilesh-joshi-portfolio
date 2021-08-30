@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to bottom, rgb(89, 147, 181), rgba(89, 147, 181,0));
+    /* background-image: url("/img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    height: 100vh;
+}
+
+nav{
+    background: rgb(67, 113, 140);
+    margin: 0;
+    padding: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+#profile_pic{
+    float: right;
+    border-radius: 50%;
+    margin: 30px 50px 0 50px;
+}
+
+footer{
+    float: bottom;
+    background: rgb(rgb(19, 18, 18));
+}
